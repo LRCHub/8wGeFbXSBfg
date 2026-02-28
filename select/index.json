@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "無敵あざとイズム",
+  "base_artist": "ドラマチックレコード",
+  "createdAt": "2026-02-28T10:56:15.673424Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "無敵あざとイズム",
+      "artist": "ドラマチックレコード",
+      "has_synced": false,
+      "path": "select/pl_01_無敵あざとイズム_ドラマチックレコード.txt"
+    }
+  ]
+}
